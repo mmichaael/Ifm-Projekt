@@ -1,0 +1,14 @@
+D:\Projekt\IfmProjekt\IfmProjekt\bin\Debug\net8.0\IfmProjekt.exe
+D:\Projekt\IfmProjekt\IfmProjekt\bin\Debug\net8.0\IfmProjekt.deps.json
+D:\Projekt\IfmProjekt\IfmProjekt\bin\Debug\net8.0\IfmProjekt.runtimeconfig.json
+D:\Projekt\IfmProjekt\IfmProjekt\bin\Debug\net8.0\IfmProjekt.dll
+D:\Projekt\IfmProjekt\IfmProjekt\bin\Debug\net8.0\IfmProjekt.pdb
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\IfmProjekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\IfmProjekt.AssemblyInfoInputs.cache
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\IfmProjekt.AssemblyInfo.cs
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\IfmProjekt.csproj.CoreCompileInputs.cache
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\IfmProjekt.dll
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\refint\IfmProjekt.dll
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\IfmProjekt.pdb
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\IfmProjekt.genruntimeconfig.cache
+D:\Projekt\IfmProjekt\IfmProjekt\obj\Debug\net8.0\ref\IfmProjekt.dll
